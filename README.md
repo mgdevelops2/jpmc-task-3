@@ -1,6 +1,6 @@
 # JPMC Task 3
 
-This is my submission for problem 3 of JPMC's Forage program, which is a virtual
+This is a data visualization graph using - JP Morgan Chase Co's Perspective tool an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. Here we have used it to create user-configurable reports, dashboards, notebooks and applications, then deploy stand-alone in the browser.
 
 ## Description
 
