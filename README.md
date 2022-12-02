@@ -1,6 +1,11 @@
 # JPMC Task 3
 
-This is a data visualization graph using - JP Morgan Chase Co's Perspective tool an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. Here we have used it to create user-configurable reports, dashboards, notebooks and applications, then deploy stand-alone in the browser.
+Being able to access and adjust data feeds is critical to trading analysis and stock price monitoring. With the prior tasks complete, we have the adjusted data set up on your system and piped into Perspective.
+
+This is a data visualization graph using - JP Morgan Chase Co's Perspective tool an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. For traders to have a complete picture of all the trading strategies being monitored, several screens typically display an assortment of live and historical data at their workstations. 
+
+Here we have used Perspective to create an application that shows a visual representation of a divergence the correlation of 2 assets that deploys stand-alone in the browser.
+
 
 ## Description
 
